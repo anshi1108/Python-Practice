@@ -7,13 +7,13 @@ Welcome to the Python Projects repository! This repository contains various Pyth
 ### Countdown Timer
 A simple timer application that assists in countdowns for various activities or tasks.
 
-### Budget Game
-An interactive game to manage and simulate your budgeting skills. See what your budget gets you in this game!
+### Ticket recommendation
+An interactive game to manage and simulate recommendations based on your budget. See what your budget gets you in this game!
 
 ### Coin Toss
 Experience the classic coin toss game in Python.
 
-### Cube Game
+### Cube Calculator
 Calculate the cube of any number with this handy application.
 
 ### Table Generator
@@ -25,7 +25,7 @@ Calculate the factorial of any number using this application.
 ### Fibonacci Generator
 Generate the Fibonacci series effortlessly with this Python program.
 
-### Dice Game
+### Dice Guessing Game
 Roll the dice and play an exciting dice game!
 
 ### Password Generator
